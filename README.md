@@ -1,3 +1,3 @@
-# Tutorials for C/C++
+# My folders for C/C++
 
 Description
